@@ -1,4 +1,4 @@
-module github.com/skanehira/swagger-preview
+module github.com/kokardy/swagger-preview
 
 go 1.16
 
