@@ -1,5 +1,6 @@
 # swagger-preview
 `swagger-preview` can preview swagger.
+Fork from `skanehira/swagger-preview`
 
 ## Features
 - preview swagger
@@ -9,7 +10,7 @@
 This is only can install with Go 1.16~ 
 
 ```sh
-$ go install github.com/skanehira/swagger-preview/cmd/spr@latest
+$ go install github.com/kokardy/swagger-preview/cmd/spr@latest
 ```
 
 ## Usage
@@ -25,7 +26,8 @@ $ PORT=8080 spr api/swagger.yaml
 ```
 
 ## Author
-skanehira
+kokardy
 
 ## Thanks
 - https://github.com/swagger-api/swagger-ui
+- skanehira
